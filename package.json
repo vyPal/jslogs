@@ -1,0 +1,26 @@
+{
+  "name": "jslogs",
+  "version": "0.0.1",
+  "description": "A simple, modern, extendible logger for all your JavaScript projects",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vyPal/jslogs.git"
+  },
+  "keywords": [
+    "log",
+    "logging",
+    "logs",
+    "extendible",
+    "framework"
+  ],
+  "author": "vyPal",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/vyPal/jslogs/issues"
+  },
+  "homepage": "https://github.com/vyPal/jslogs#readme"
+}
